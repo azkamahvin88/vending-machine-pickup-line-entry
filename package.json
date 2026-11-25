@@ -1,0 +1,1 @@
+{"description":"make.fun one-liner entry: a vending machine's pickup line","license":"MIT","name":"vending-machine-pickup-line-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
